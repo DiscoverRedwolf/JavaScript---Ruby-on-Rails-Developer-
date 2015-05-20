@@ -1,4 +1,4 @@
-JavaScript / Ruby on Rails Developer
+<strong>JavaScript / Ruby on Rails Developer</strong>
 
 We are looking for a gifted developer with a base skillset in either JavaScript or Ruby on Rails and a willingness to learn.
 
